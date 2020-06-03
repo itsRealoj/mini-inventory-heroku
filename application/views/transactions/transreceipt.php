@@ -27,7 +27,7 @@ defined('BASEPATH') OR exit('');
 	<div class="row" style='font-weight:bold'>
 		<div class="col-xs-4">Item</div>
 		<div class="col-xs-4">QtyxPrice</div>
-		<div class="col-xs-4">Tot(&#8358;)</div>
+		<div class="col-xs-4">Tot(Ksh.)</div>
 	</div>
 	<hr style='margin-top:2px; margin-bottom:0px'>
     <?php $init_total = 0; ?>
@@ -42,19 +42,19 @@ defined('BASEPATH') OR exit('');
     <hr style='margin-top:2px; margin-bottom:0px'>       
     <div class="row">
         <div class="col-xs-12 text-right">
-            <b>Total: &#8358;<?=isset($init_total) ? number_format($init_total, 2) : 0?></b>
+            <b>Total: Ksh.<?=isset($init_total) ? number_format($init_total, 2) : 0?></b>
         </div>
     </div>
     <hr style='margin-top:2px; margin-bottom:0px'>      
     <div class="row">
         <div class="col-xs-12 text-right">
-            <b>Discount(<?=$discountPercentage?>%): &#8358;<?=isset($discountAmount) ? number_format($discountAmount, 2) : 0?></b>
+            <b>Discount(<?=$discountPercentage?>%): Ksh.<?=isset($discountAmount) ? number_format($discountAmount, 2) : 0?></b>
         </div>
     </div>       
     <div class="row">
         <div class="col-xs-12 text-right">
             <?php if($vatPercentage > 0): ?>
-            <b>VAT(<?=$vatPercentage?>%): &#8358;<?=isset($vatAmount) ? number_format($vatAmount, 2) : ""?></b>
+            <b>VAT(<?=$vatPercentage?>%): Ksh.<?=isset($vatAmount) ? number_format($vatAmount, 2) : ""?></b>
             <?php else: ?>
             VAT inclusive
             <?php endif; ?>
@@ -62,7 +62,7 @@ defined('BASEPATH') OR exit('');
     </div>      
     <div class="row">
         <div class="col-xs-12 text-right">
-            <b>FINAL TOTAL: &#8358;<?=isset($cumAmount) ? number_format($cumAmount, 2) : ""?></b>
+            <b>FINAL TOTAL: Ksh.<?=isset($cumAmount) ? number_format($cumAmount, 2) : ""?></b>
         </div>
     </div>
     <hr style='margin-top:5px; margin-bottom:0px'>
@@ -73,12 +73,12 @@ defined('BASEPATH') OR exit('');
     </div>
     <div class="row">
         <div class="col-xs-12">
-            <b>Amount Tendered: &#8358;<?=isset($amountTendered) ? number_format($amountTendered, 2) : ""?></b>
+            <b>Amount Tendered: Ksh.<?=isset($amountTendered) ? number_format($amountTendered, 2) : ""?></b>
         </div>
     </div>
     <div class="row">
         <div class="col-xs-12">
-            <b>Change: &#8358;<?=isset($changeDue) ? number_format($changeDue, 2) : ""?></b>
+            <b>Change: Ksh.<?=isset($changeDue) ? number_format($changeDue, 2) : ""?></b>
         </div>
     </div>
     <hr style='margin-top:5px; margin-bottom:0px'>

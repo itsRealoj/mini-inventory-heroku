@@ -4,7 +4,7 @@ require_once 'functions.php';
 /**
  * Description of Transactions
  *
- * @author Amir <amirsanni@gmail.com>
+ * @author stephen <stephenojwang1040@gmail.com>
  * @date 31st Dec, 2015
  */
 class Transactions extends CI_Controller{
@@ -128,7 +128,7 @@ class Transactions extends CI_Controller{
             
             //add into eventlog
             //function header: addevent($event, $eventRowIdOrRef, $eventDesc, $eventTable, $staffId) in 'genmod'
-            $eventDesc = count($arrOfItemsDetails). " items totalling &#8358;". number_format($cumAmount, 2)
+            $eventDesc = count($arrOfItemsDetails). " items totalling Ksh.". number_format($cumAmount, 2)
                     ." with reference number {$returnedData['transRef']} was purchased";
             
             $this->genmod->addevent("New Transaction", $returnedData['transRef'], $eventDesc, 'transactions', $this->session->admin_id);

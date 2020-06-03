@@ -38,70 +38,70 @@ defined('BASEPATH') OR exit('');
                                 <tbody>
                                     <tr>
                                         <th>1</th>
-                                        <td><a href="#">Amir Sanni</a></td>
+                                        <td><a href="#">stephen ojwang</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>2</th>
-                                        <td><a href="#">Amir Sanni</a></td>
+                                        <td><a href="#">stephen ojwang</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>3</th>
-                                        <td><a href="#">Amir Sanni</a></td>
+                                        <td><a href="#">stephen ojwang</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>4</th>
-                                        <td><a href="#">Amir Sanni</a></td>
+                                        <td><a href="#">stephen ojwang</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>5</th>
-                                        <td><a href="#">Amir Sanni</a></td>
+                                        <td><a href="#">stephen ojwang</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>6</th>
-                                        <td><a href="#">Amir Sanni</a></td>
+                                        <td><a href="#">stephen ojwang</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>7</th>
-                                        <td><a href="#">Amir Sanni</a></td>
+                                        <td><a href="#">stephen ojwang</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>8</th>
-                                        <td><a href="#">Amir Sanni</a></td>
+                                        <td><a href="#">stephen ojwang</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>9</th>
-                                        <td><a href="#">Amir Sanni</a></td>
+                                        <td><a href="#">stephen ojwang</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>10</th>
-                                        <td><a href="#">Amir Sanni</a></td>
+                                        <td><a href="#">stephen ojwang</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center">
@@ -124,7 +124,7 @@ defined('BASEPATH') OR exit('');
                     <div class="col-sm-4">
                         <div class="pwell custDetail scroll">
                             <table class="table table-bordered">
-                                <h4 class="text-center text-uppercase">Sanni Amir Olalekan</h4>
+                                <h4 class="text-center text-uppercase">ojwang stephen Olalekan</h4>
                                 <tbody>
                                     <tr>
                                         <th>ID</th>
@@ -136,7 +136,7 @@ defined('BASEPATH') OR exit('');
                                     </tr>
                                     <tr>
                                         <th>Email</th>
-                                        <td>amirsanni@gmail.com</td>
+                                        <td>stephenojwang1040@gmail.com</td>
                                     </tr>
                                     <tr>
                                         <th>Gender</th>

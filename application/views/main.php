@@ -125,7 +125,7 @@ defined('BASEPATH') OR exit('');
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
                             <a>
-                                Total Earned Today: <b>&#8358;<span id="totalEarnedToday"></span></b>
+                                Total Earned Today: <b>Ksh.<span id="totalEarnedToday"></span></b>
                             </a>
                         </li>
                         <li class="dropdown">
@@ -231,7 +231,7 @@ defined('BASEPATH') OR exit('');
         <footer class="container-fluid text-center hidden-print">
             <p>
                 <i class="fa fa-copyright"></i>
-                Copyright <a href="http://www.amirsanni.com">Amir Sanni</a> (2016 - <?=date('Y')?>)
+                Copyright <a href="http://www.stephenojwang1040.com">stephen ojwang</a> (2016 - <?=date('Y')?>)
             </p>
         </footer>
 
