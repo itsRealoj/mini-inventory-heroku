@@ -13,7 +13,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <title>Log in</title>
 
         <!-- Favicon -->
-        <link rel="shortcut icon" href="<?=base_url()?>public/images/icon.ico">
+        <link rel="shortcut icon" href="<?=base_url()?>public/images/icon.png">
         <!-- favicon ends --->
         
         <!--- LOAD FILES -->
@@ -85,7 +85,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     
                     <div class="row">
                         <div class="col-sm-12 text-center" style="color:white">
-                            Designed and Developed by <a href="http://www.stephenojwang1040.com/" target='_blank' class="text-primary">stephen ojwang</a> (2016)
+                            Designed and Developed by <a href="http://www.stephenojwang1040.com/" target='_blank' class="text-primary">stephen ochieng</a> (2016)
                         </div>
                     </div>
                 </div>

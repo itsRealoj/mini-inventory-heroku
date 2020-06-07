@@ -7,8 +7,8 @@ defined('BASEPATH') OR exit('');
     <div class="row">
         <div class="col-xs-12 text-center text-uppercase">
             <center style='margin-bottom:5px'><img src="<?=base_url()?>public/images/receipt_logo.png" alt="logo" class="img-responsive" width="60px"></center>
-            <b>1410 Store, plot 5, block 2</b>
-            <div>+234 7086201801, +234 7030167606</div>
+            <b>KujaOnline Store, plot 5, block 2</b>
+            <div>+254 7012345678, +254 7012345678</div>
         </div>
     </div>
     <div class="row text-center">

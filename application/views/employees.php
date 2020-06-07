@@ -38,70 +38,70 @@ defined('BASEPATH') OR exit('');
                                 <tbody>
                                     <tr>
                                         <th>1</th>
-                                        <td><a href="#">stephen ojwang</a></td>
+                                        <td><a href="#">stephen ochieng</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>2</th>
-                                        <td><a href="#">stephen ojwang</a></td>
+                                        <td><a href="#">stephen ochieng</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>3</th>
-                                        <td><a href="#">stephen ojwang</a></td>
+                                        <td><a href="#">stephen ochieng</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>4</th>
-                                        <td><a href="#">stephen ojwang</a></td>
+                                        <td><a href="#">stephen ochieng</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>5</th>
-                                        <td><a href="#">stephen ojwang</a></td>
+                                        <td><a href="#">stephen ochieng</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>6</th>
-                                        <td><a href="#">stephen ojwang</a></td>
+                                        <td><a href="#">stephen ochieng</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>7</th>
-                                        <td><a href="#">stephen ojwang</a></td>
+                                        <td><a href="#">stephen ochieng</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>8</th>
-                                        <td><a href="#">stephen ojwang</a></td>
+                                        <td><a href="#">stephen ochieng</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>9</th>
-                                        <td><a href="#">stephen ojwang</a></td>
+                                        <td><a href="#">stephen ochieng</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center"><i class="fa fa-edit pointer"></i></td>
                                     </tr>
                                     <tr>
                                         <th>10</th>
-                                        <td><a href="#">stephen ojwang</a></td>
+                                        <td><a href="#">stephen ochieng</a></td>
                                         <td>CUS-ID-0001</td>
                                         <td>07030167606</td>
                                         <td class="text-center">
