@@ -5,7 +5,7 @@ require_once "functions.php";
 /**
  * Description of Test
  *
- * @author Amir <amirsanni@gmail.com>
+ * @author stephen <stephenojwang1040@gmail.com>
  * Date: Dec 31st, 2015
  */
 

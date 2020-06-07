@@ -16,7 +16,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		'protocol' => 'smtp',
 		'smtp_host' => 'ssl://smtp.googlemail.com',
 		'smtp_port' => 465,
-		'smtp_user' => 'amirsanni@gmail.com',
+		'smtp_user' => 'stephenojwang1040@gmail.com',
 		'smtp_pass' => 'ibadangolfclub2016',
 		'charset' => 'iso-8859-1',
 		'wordwrap' => TRUE

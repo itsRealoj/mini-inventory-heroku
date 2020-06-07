@@ -43,7 +43,7 @@
                 <tr>
                     <th>Amount Deposited:</th>
                     <td></td>
-                    <td>&#8358;<?= number_format($this->input->post('amountDeposited'), 2)?></td>
+                    <td>Ksh.<?= number_format($this->input->post('amountDeposited'), 2)?></td>
                 </tr>
                 <tr>
                     <th>Street:</th>

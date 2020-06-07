@@ -5,7 +5,7 @@ require_once "functions.php";
 /**
  * Description of Logout
  *
- * @author Amir <amirsanni@gmail.com>
+ * @author stephen <stephenojwang1040@gmail.com>
  * Date: 30th Dec, 2016
  */
 

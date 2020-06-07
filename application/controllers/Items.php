@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('');
 /**
  * Description of Items
  *
- * @author Amir <amirsanni@gmail.com>
+ * @author stephen <stephenojwang1040@gmail.com>
  * @date 31st Dec, 2015
  */
 class Items extends CI_Controller{
@@ -110,7 +110,7 @@ class Items extends CI_Controller{
             
             $itemName = set_value('itemName');
             $itemQty = set_value('itemQuantity');
-            $itemPrice = "&#8358;".number_format(set_value('itemPrice'), 2);
+            $itemPrice = "Ksh.".number_format(set_value('itemPrice'), 2);
             
             //insert into eventlog
             //function header: addevent($event, $eventRowId, $eventDesc, $eventTable, $staffId)
